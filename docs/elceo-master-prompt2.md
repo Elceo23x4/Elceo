@@ -129,15 +129,3 @@ Implementation approach for Codex
 Then harden with tests, performance, accessibility, storage retention logic, and observability.
 Final instruction to Codex
 Build ELCEO as a production-minded market cognition platform with explicit mathematical logic, deterministic scoring, testable calculations, explainable reasoning, premium visual identity, and strong engineering discipline. Do not rely on AI text generation alone for numerical or ranking behavior. Use deterministic domain logic for calculations and state scoring, then layer AI explanations on top. The result should be a serious foundation for a full-production public launch after final QA, integration hardening, and iterative refinement.
-
-
-Marketaux  API: 0RpYOiG7yIodgthGGkvJEdHjZLJmyNFC7mfezyK8
-Finnhub API: d7ejjq9r01qi33g6hepgd7ejjq9r01qi33g6heq0
-Alphavantage API key: 4QZZY3UEKGS7P1FG
-NewsApi API: 769f27d6b380443a9adb1eaa6dafc67f 
-Firecrawl API: fc-2cd8d8bffcd44bc59b2fae8941819c5e
-Financialmodelingprep API: m6ZXOIzYYEVxKcMXebdRsjh0uGUMIqgj
-Tradingeconomics is expensive, any recommended free alternative
-
-
-0RpYOiG7yIodgthGGkvJEdHjZLJmyNFC7mfezyK8
