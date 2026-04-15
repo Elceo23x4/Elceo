@@ -1,0 +1,10 @@
+{
+  "name": "@elceo/web",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "echo 'apps/web dev script not implemented yet'",
+    "build": "echo 'apps/web build script not implemented yet'",
+    "test": "echo 'apps/web test script not implemented yet'"
+  }
+}
