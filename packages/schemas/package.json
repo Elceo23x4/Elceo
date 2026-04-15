@@ -1,0 +1,10 @@
+{
+  "name": "@elceo/schemas",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "echo 'packages/schemas build script not implemented yet'",
+    "test": "echo 'packages/schemas test script not implemented yet'"
+  }
+}

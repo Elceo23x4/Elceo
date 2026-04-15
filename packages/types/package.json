@@ -1,0 +1,10 @@
+{
+  "name": "@elceo/types",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "echo 'packages/types build script not implemented yet'",
+    "test": "echo 'packages/types test script not implemented yet'"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "@elceo/providers",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "echo 'packages/providers build script not implemented yet'",
+    "test": "echo 'packages/providers test script not implemented yet'"
+  }
+}

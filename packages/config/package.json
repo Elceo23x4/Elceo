@@ -1,0 +1,10 @@
+{
+  "name": "@elceo/config",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "echo 'packages/config build script not implemented yet'",
+    "test": "echo 'packages/config test script not implemented yet'"
+  }
+}
